@@ -1,4 +1,4 @@
-# oladjango23a
+# oladjango
 Projeto de Django Itapira 2023 turma a
 
 ## comandos
