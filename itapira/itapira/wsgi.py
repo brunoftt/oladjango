@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#<<<<<<< HEAD
 """
 WSGI config for itapira project.
 
@@ -15,7 +15,7 @@ from django.core.wsgi import get_wsgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'itapira.settings')
 
 application = get_wsgi_application()
-=======
+#=======
 """
 WSGI config for itapira project.
 
@@ -32,4 +32,4 @@ from django.core.wsgi import get_wsgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'itapira.settings')
 
 application = get_wsgi_application()
->>>>>>> e26cee4f465b6f2449ba5958d00720877aa94700
+#>>>>>>> e26cee4f465b6f2449ba5958d00720877aa94700
